@@ -1,25 +1,26 @@
-## Welcome to GitHub Pages
+## Hola, bienvenidos a mi repositorio de talleres de NLP y Proyecto de Clase
 
-You can use the [editor on GitHub](https://github.com/Andresfmurillo/Portafolio-NLP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mi nombre es Andrés Felipe Murillo Avendaño, estudie economía y desarrollo actividades de análisis de datos dar soluciones a problemas que se presentan en mi entorno laboral.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Repositorio NLP
+## 10 talleres y un proyecto de Analítica
 
-1. Numbered
-2. List
+
+
+
+1. Adqusición de Textos (https://github.com/Andresfmurillo/Electiva-NLP/blob/main/Tarea2_NLP.ipynb) 
+2. Extracción, pre-procesamiento y normalización de textos (https://github.com/Andresfmurillo/Electiva-NLP/blob/main/Taller%20%233%20Web%20Scraping.ipynb)
+3. Representación vectorial de textos - , Métodos de vectorización, One-Hot Encoding, Bag of Words, Bag of N-Grams(https://github.com/Andresfmurillo/Electiva-NLP/blob/main/Taller%20%234%20-%20NLP%20(1).ipynb)
+4. Representación vectorial de textos - Parte 2, Métodos de vectorización matriz TF-IDF (https://github.com/Andresfmurillo/Electiva-NLP/blob/main/Taller%205%20-%2025marzo2021%20-%20AndresFelipeMurillo%20(1).ipynb)
+5. Clasificación de textos - Regresión logística (https://github.com/Andresfmurillo/Electiva-NLP/blob/main/Taller%20NLP%2022abril2021.ipynb)
+6. Agrupación de Textos con K-Means (https://github.com/Andresfmurillo/Electiva-NLP/blob/main/taller8.ipynb)
+7. Modelado de Temas - LDA: Latent Dirichlet Allocation (https://github.com/Andresfmurillo/Electiva-NLP/blob/main/Taller9_NLP.ipynb)
+8. Visualizaciones para NLP - (https://github.com/Andresfmurillo/Electiva-NLP/blob/main/Taller10_NLP.ipynb)
+9. Redes Sociales y NLP - (https://github.com/Andresfmurillo/Electiva-NLP/blob/main/taller11.ipynb)
+10. Análisis de Sentimiento 
 
 **Bold** and _Italic_ and `Code` text
 

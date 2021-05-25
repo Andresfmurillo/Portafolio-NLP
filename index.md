@@ -11,8 +11,8 @@ Mi nombre es Andrés Felipe Murillo Avendaño, estudie economía y desarrollo ac
 
 
 
-1. Adqusición de Textos (https://github.com/Andresfmurillo/Electiva-NLP/blob/main/Tarea2_NLP.ipynb) 
-2. Extracción, pre-procesamiento y normalización de textos [https://github.com/Andresfmurillo/Electiva-NLP/blob/main/Taller%20%233%20Web%20Scraping.ipynb]
+1. [Adqusición de Textos] (https://github.com/Andresfmurillo/Electiva-NLP/blob/main/Tarea2_NLP.ipynb) 
+2. [Extracción, pre-procesamiento y normalización de textos] [https://github.com/Andresfmurillo/Electiva-NLP/blob/main/Taller%20%233%20Web%20Scraping.ipynb]
 3. Representación vectorial de textos - , Métodos de vectorización, One-Hot Encoding, Bag of Words, Bag of N-Grams[https://github.com/Andresfmurillo/Electiva-NLP/blob/main/Taller%20%234%20-%20NLP%20(1).ipynb]
 4. Representación vectorial de textos - Parte 2, Métodos de vectorización matriz TF-IDF [https://github.com/Andresfmurillo/Electiva-NLP/blob/main/Taller%205%20-%2025marzo2021%20-%20AndresFelipeMurillo%20(1).ipynb]
 5. Clasificación de textos - Regresión logística [https://github.com/Andresfmurillo/Electiva-NLP/blob/main/Taller%20NLP%2022abril2021.ipynb]

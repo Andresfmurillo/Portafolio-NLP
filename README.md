@@ -4,7 +4,7 @@ Talleres de clase NLP
 
 Este es el portafolio de talleres de la clase de NLP (Natural Language Processing)
 
-En total son 11 talleres entregados en los que se realizó, Adquisición de datos de texto scraping, aumentación, procesamiento de imágenes, Redes sociales y temas de tendencia y visualización de resultados de un proyecto de NLP.
+En total son 10 talleres entregados en los que se realizó, Adquisición de datos de texto scraping, aumentación, procesamiento de imágenes, Redes sociales y temas de tendencia y visualización de resultados de un proyecto de NLP.
 
 De igual manera se realizó un proyecto "Palabras más utilizadas en los Planes de Gobierno de Colombia (1960-2021)"
 

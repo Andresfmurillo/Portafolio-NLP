@@ -10,7 +10,7 @@ Mi nombre es Andrés Felipe Murillo Avendaño, estudie economía y desarrollo ac
 
 
 
-
+[NLP.jpg](https://github.com/Andresfmurillo/Electiva-NLP/blob/main/NLP.jpg)
 1. [Adqusición de Textos](https://github.com/Andresfmurillo/Electiva-NLP/blob/main/Tarea2_NLP.ipynb) 
 2. [Extracción, pre-procesamiento y normalización de textos](https://github.com/Andresfmurillo/Electiva-NLP/blob/main/Taller%20%233%20Web%20Scraping.ipynb)
 3. [Representación vectorial de textos - , Métodos de vectorización, One-Hot Encoding, Bag of Words, Bag of N-Grams](https://github.com/Andresfmurillo/Electiva-NLP/blob/main/Taller%20%234%20-%20NLP%20(1).ipynb)

@@ -16,7 +16,7 @@ Mi nombre es Andrés Felipe Murillo Avendaño, estudie economía y desarrollo ac
 11. Análisis de Sentimiento 
 
  
-[NLP](https://www.google.com/url?sa=i&url=https%3A%2F%2Fasesoftware.com%2Fnlp-la-magia-detras-de-las-maquinas-que-nos-entienden%2F&psig=AOvVaw2fJ_84mjz1AIxS2hBhU16U&ust=1622083417494000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCFgOip5vACFQAAAAAdAAAAABAE)
+[NLP](https://github.com/Andresfmurillo/Electiva-NLP/blob/main/2019-11-7_best-nlp-tools-libraries-services.jpg)
  
  
 ```markdown

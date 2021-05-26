@@ -16,7 +16,7 @@ Mi nombre es Andrés Felipe Murillo Avendaño, estudie economía y desarrollo ac
 11. Análisis de Sentimiento 
 
  
-[NLP](https://github.com/Andresfmurillo/Electiva-NLP/blob/main/2019-11-7_best-nlp-tools-libraries-services.jpg)
+![Imagen de NLP](https://github.com/Andresfmurillo/Electiva-NLP/blob/main/2019-11-7_best-nlp-tools-libraries-services.jpg)
  
  
 ```markdown

@@ -3,8 +3,7 @@
 Mi nombre es Andrés Felipe Murillo Avendaño, estudie economía y desarrollo actividades de análisis de datos, para poder dar soluciones a problemas que se presentan en mi entorno laboral.
 
 
-
-![NLP begginers](https://github.com/Andresfmurillo/Electiva-NLP/blob/main/NLPbegginers.jpg) 
+![apertura](https://github.com/Andresfmurillo/Electiva-NLP/blob/main/NLPbegginers.jpg) 
 
 
 
@@ -66,7 +65,7 @@ Mi nombre es Andrés Felipe Murillo Avendaño, estudie economía y desarrollo ac
 
 
 
-![Imagen de NLP](https://github.com/Andresfmurillo/Electiva-NLP/blob/main/2019-11-7_best-nlp-tools-libraries-services.jpg)
+![Imagen de NLP9062021](https://github.com/Andresfmurillo/Electiva-NLP/blob/main/2019-11-7_best-nlp-tools-libraries-services.jpg)
  
 
 

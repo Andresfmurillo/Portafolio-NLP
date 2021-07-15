@@ -1,4 +1,4 @@
-## Hola, bienvenidos a mi repositorio de talleres de NLP y Proyecto de Clase
+## Hola, bienvenidos a mi repositorio de NLP y Proyectos de Analítica de Datos
 
 Mi nombre es Andrés Felipe Murillo Avendaño, estudie economía y desarrollo actividades de análisis de datos, para poder dar soluciones a problemas que se presentan en mi entorno laboral.
 

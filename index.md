@@ -64,7 +64,7 @@ Mi nombre es Andrés Felipe Murillo Avendaño, estudie economía y desarrollo ac
 
 **_Proyecto Analisis de Fraude_**
 
-[Algoritmos de Machine Learning para la detección del fraude](https://github.com/Andresfmurillo/Proyecto_Analisis_Fraude/blob/main/README.md)
+[Algoritmos de Machine Learning para la detección del fraude](https://github.com/Andresfmurillo/Proyecto_Analisis_Fraude)
 
 
 

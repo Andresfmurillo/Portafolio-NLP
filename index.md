@@ -62,6 +62,11 @@ Mi nombre es Andrés Felipe Murillo Avendaño, estudie economía y desarrollo ac
    [Extracción texto de los ultimos Planes de Desarrollo en PDF, análisis exploratorio y representación gráfica](https://github.com/Andresfmurillo/Electiva-NLP/blob/main/Proyecto_NLP_VF03062021.ipynb)
 
 
+**_Proyecto Analisis de Fraude_**
+
+[Algoritmos de Machine Learning para la detección del fraude](https://github.com/Andresfmurillo/Proyecto_Analisis_Fraude/blob/main/README.md)
+
+
 
 
 
